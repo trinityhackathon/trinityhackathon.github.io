@@ -47,7 +47,7 @@ event:
           client_id:    "cee08b71e4704eee9c084d575f7f5187f39b1760ce933e21b31006dcaaebe909"
           redirect_uri: "https://hacktrinity.com/success"
       - text: "Sponsor"
-        href: "mailto:sponsorship@website.com"
+        href: "mailto:organizer@hacktrinity.com"
 
   about:
     description: >
