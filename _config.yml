@@ -24,8 +24,8 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "Example Hacks | 5/6 August 2016"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
+  title:       "HackTrinity | 29/30 April 2017"
+  description: "This is a hackathon hosted at Trinity College in Hartford, Connnecticut."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
 # Event information.
@@ -51,7 +51,7 @@ event:
 
   about:
     description: >
-      Our goal is to bring great minds together in a space to make new connections, inspire ideas and build cool tech because it’s fun :)
+      Our goal is to bring great minds together in a single space so that they can make new connections, inspire ideas and build cool tech because it’s fun :)
 
   # Info Sections
   info:
