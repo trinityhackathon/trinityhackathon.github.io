@@ -262,7 +262,7 @@ section {
 }
 
 @media screen and (max-width: 640px) {
-  h1 {
+  .wrapper h1 {
     text-align: left;
   }
 }
