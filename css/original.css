@@ -259,10 +259,8 @@ section {
     border-top-width: 8px;
     top: -8px;
   }
-}
-
-@media screen and (max-width: 640px) {
-  .wrapper h1 {
+  
+    .wrapper h1 {
     text-align: left;
   }
 }
