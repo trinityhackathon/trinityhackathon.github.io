@@ -21,13 +21,9 @@
   font-weight: 600;
 }
 
-.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-  color: #fff;
-}
-
 body {
   background-color: #EEBF2D;
-  //color: #081A3B;
+  //color: #fff;
 }
 
 section {
