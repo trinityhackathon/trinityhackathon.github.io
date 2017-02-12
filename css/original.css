@@ -51,6 +51,7 @@ section {
 .hero {
   background-color: #081A3B;
   min-height: 110vh;
+  color: #eebf2d;
 }
 
 .hero img {
@@ -127,6 +128,7 @@ section {
   background-color: #eebf2d;
   padding: 130px 0;
   position: relative;
+  color: #081A3B;
 }
 
 .about p {
