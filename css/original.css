@@ -16,10 +16,6 @@
  * Primary Pink: #FF7FA8;
  */
 
-.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-  color: #EEBF2D;
-}
-
 * {
   font-family: 'Open Sans';
   font-weight: 600;
@@ -27,6 +23,7 @@
 
 body {
   background-color: #081A3B;
+  color: #081A3B;
 }
 
 section {
@@ -73,7 +70,7 @@ section {
 }
 
 .hero .wrapper h1 {
-  //background: #fff;
+  background: #081A3B;
   //background: rgba(255, 255, 255, .3);
   display: inline-block;
   font-size: 60px;
