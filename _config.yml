@@ -12,7 +12,7 @@ url: "https://hacktrinity.com"
 
 # The ability to use custom themes.
 style:
-  theme: "original"
+  theme: "jekyll-theme-cayman"
 
 # This will help you track who's visiting your website.
 tracking:
